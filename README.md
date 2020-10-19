@@ -7,7 +7,9 @@ This repository contains a collection of security-related practices and patterns
 
 
 ## Why does secuirty matters?
-- Security must be addressed as a concern, and not as a feature. For example, having a login page is a feature, but the concern addressed here is the confidentialy that the information has, and every user should only be able to see/access its own data/info. To get real security, you need to get away from the mindset of seeing security as a set of features, instead as a concern that cuts across the functionality.
+
+Security must be addressed as a concern, and not as a feature. For example, having a login page is a feature, but the concern addressed here is the confidentialy that the information has, and every user should only be able to see/access its own data/info. To get real security, you need to get away from the mindset of seeing security as a set of features, instead as a concern that cuts across the functionality.
+  
   Categories of security concerns:
   - Confidentiality
   - Integrity

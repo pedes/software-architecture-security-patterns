@@ -18,3 +18,11 @@ Security must be addressed as a concern, and not as a feature. For example, havi
 
 ## Secure by design
 Writing good and secure software is not a trivial task, therefore, a best way to deal with the need of having security in place is to include it into the design of the software and the tools that we use to build it.
+
+Design, can be seen as any activity or decision taken during the development of the software. Security must be one of those decisions and part of the design, and **everyone** involved in the development process should be trained in software security. For instance:
+- Developers should know about OWASP Top 10
+- QA/Testers should be trained in basic penetration testing techniques
+- Business analyst should be capable of having discussions about software security
+
+
+

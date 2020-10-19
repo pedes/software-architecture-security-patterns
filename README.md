@@ -24,5 +24,7 @@ Design, can be seen as any activity or decision taken during the development of 
 - QA/Testers should be trained in basic penetration testing techniques
 - Business analyst should be capable of having discussions about software security
 
+It's important to include security while designing the software solution, otherwise, adding security later it might not be possible if the security aspects needed imply a fundamentally different design. e.g. it's usually very hard (or even impossible) to add scalability/statelessness late in the software development cycle.
 
+ 
 

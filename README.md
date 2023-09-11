@@ -26,5 +26,30 @@ Design, can be seen as any activity or decision taken during the development of 
 
 It's important to include security while designing the software solution, otherwise, adding security later it might not be possible if the security aspects needed imply a fundamentally different design. e.g. it's usually very hard (or even impossible) to add scalability/statelessness late in the software development cycle.
 
+Importance of Understanding Security Concepts:
+
+- Avoid granting excessive access.
+- Recognize the value of layered security controls.
+- Spend effort protecting the right aspects based on threat modeling.
+- Understand cloud service models and shared responsibility.
+- Prioritize and manage high risks appropriately.
+
+Least Privilege:
+
+- Access only what's necessary for a task, including automation.
+- Access policies should be "deny by default".
+- Importance of controlling access to the cloud console.
+
+Defense in Depth:
+
+- Multiple layers of overlapping security controls.
+- Aimed at catching potential breaches even if one control fails.
+- Should be able to question any control's potential failure and have a backup.
+
+Zero Trust:
+
+- Doesn't mean a complete lack of trust, but trust should be earned.
+- Implementation varies: encryption/authentication for all connections, limit network access, multifactor authentication, etc.
+- Overlap with other principles, like least privilege.
  
 
